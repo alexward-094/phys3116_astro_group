@@ -7,6 +7,11 @@
 25/09/2025
 Thursday Tutorial Week 2
 
+#### Meeting Attendees
+Alex Ward
+Lesley Kalinina
+Evan Zhang
+
 #### Agenda
 
 Setup Github
@@ -16,7 +21,7 @@ Vote for Assignment option 2.
 
 #### Decisions
 
-We have decided to proceed with Option 1/2 for the assignment 
+We have decided to proceed with Option 2 for the assignment 
 
 #### Open Actions 
 
